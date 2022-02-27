@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to the vvise. Displaying, great augmented grievances, and heavie pressures of dangerous consequence. Appearing, by certain materiall weighty passages of speciall concernment. Remonstrating, the great dangers which the counties of Cumberland and Westmoreland are in (though now in the hands of the Parliament) but like to be possessed by the enemy, who aimeth at it, above all other landing places, from foraign parts; the said countries being more hazardable, sith that Mr. Richard Barwis (a member of the House of Commons) hath ... betrayed his trust, and placed traytors, and disaffected officers in the said counties, ... All which being certified by Mr. John Musgrave, Commissioner, ... who gave in the charge against Mr. Richard Barwis. And the House having referred the same to a committee, instead of prosecuting the charge brought against the said Mr. Barwis, Mr. Musgrave aforesaid was illegally committed to Fleet Prison ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89429</idno>
+            <idno type="STC">Wing M3154</idno>
+            <idno type="STC">Thomason E318_5</idno>
+            <idno type="STC">ESTC R200548</idno>
+            <idno type="EEBO-CITATION">99861265</idno>
+            <idno type="PROQUEST">99861265</idno>
+            <idno type="VID">113396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E318[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to the vvise. Displaying, great augmented grievances, and heavie pressures of dangerous consequence. Appearing, by certain materiall weighty passages of speciall concernment. Remonstrating, the great dangers which the counties of Cumberland and Westmoreland are in (though now in the hands of the Parliament) but like to be possessed by the enemy, who aimeth at it, above all other landing places, from foraign parts; the said countries being more hazardable, sith that Mr. Richard Barwis (a member of the House of Commons) hath ... betrayed his trust, and placed traytors, and disaffected officers in the said counties, ... All which being certified by Mr. John Musgrave, Commissioner, ... who gave in the charge against Mr. Richard Barwis. And the House having referred the same to a committee, instead of prosecuting the charge brought against the said Mr. Barwis, Mr. Musgrave aforesaid was illegally committed to Fleet Prison ...</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of documents by various hands, including John Musgrave's, who is also apparently the editor.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 26 1645 [i.e. 1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barwis, Richard --  Early works to 1800.</term>
+               <term>Justice, Administration of --  England.</term>
+               <term>Denial of justice --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets --  Early works to 1800.</term>
+               <term>Cumberland (England) --  History.</term>
+               <term>Westmorland (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:113396:1"/>
+            <head>TO Our worthy friend Mr. <hi>John Muſgrave,</hi> Priſoner (in the FLEET) for ſtanding for the <hi>equity</hi> of the <hi>Lawes,</hi> and the <hi>juſt Liberties</hi> and <hi>Priviledges</hi> of the <hi>free-born People of ENGLAND.</hi>
+            </head>
+            <p>WE cannot but take into conſideration, your unjuſt and ille<g ref="char:EOLhyphen"/>gall impriſonment, by thoſe who would be counted just, and are choſen and ſworn to maintain the Lawes of the Land; but violate the ſame. It is not unknown to us, the great paines which you have taken in a legall way, for redreſſe of your Countries grievances, and how faithfully you kept that trust, delegated unto you by the well-affected of the Country in generall, for your Coun<g ref="char:EOLhyphen"/>tries good; but now it appears their legs are cut off, and they made lame, you being moſt unjuſtly, and ungratefully impriſoned, contrary to the laws of the Land (and that by thoſe who were choſen and ſet up by the people, to defend and maintain the laws in their ſplendour and purity) which be<g ref="char:EOLhyphen"/>ing more fully made known unto us, and receiving more light, by theſe following Letters and Petitions comming to our hands, we thought it a very undiſcreet and unworthy thing not to impart them unto our friends, and to the view of our Countrymen, <hi>As a word to the Wiſe,</hi> or <hi>ſeaſo<g ref="char:EOLhyphen"/>nable advertiſements to all the free-born people of England;</hi> that they may ſeriouſly conſider whether theſe heavie oppreſſions, by impriſon<g ref="char:EOLhyphen"/>ment from the Parliament, inflicted upon their choiſe and cordiall friends, who ſtand for the publike good, do in the leaſt conduce to the Parliaments honour, or good of the Common-wealth, or is likely in the leaſt, to recon<g ref="char:EOLhyphen"/>cile theſe unhappy differences; for the putting an end to which, ſo much money hath been gathered, and ſo much bloud ſpilt, and ſo many lives loſt, and ſo many families ruinated, and Countries waſted? Or, whether this way which is taken to ſtop the current of juſtice, under pretence of doing juſtice, and impriſoning of juſt perſons for complaining upon, and witneſſing againſt unjuſt Judges, and i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gall treaſonous proceedings, be not the ſpee<g ref="char:EOLhyphen"/>dieſt way to breed more diviſions and encreaſe the Wars, to the utter de<g ref="char:EOLhyphen"/>ſolations of the Kingdomes.</p>
+         </div>
+         <div type="commitment">
+            <pb n="3" facs="tcp:113396:1"/>
+            <head>The Copy of the Commitment, <hi>25. Octob. 1645.</hi>
+            </head>
+            <div type="resolution">
+               <p>Upon M. <hi>Liſles</hi> report from the Committee, to which the Informa<g ref="char:EOLhyphen"/>tions given in by Mr. <hi>Iohn Muſgrave,</hi> and Mr. <hi>Oſmotherley,</hi> againſt Mr. <hi>Barvis</hi> a Member of this Houſe, was referred, Mr. <hi>Muſgrave</hi> refuſed to anſwer ſuch Interrogatories as were propounded unto him by the Committee, upon the Direction and Order of this Houſe.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi>
+               </p>
+               <p>That Mr. <hi>Iohn Muſgrave</hi> be forthwith committed priſoner to the Fleet for his contemptuous refuſing to anſwer to ſuch Interrogatories as were propounded unto him by the Committee upon the directions of this Houſe, and that a Warrant do iſſue under M. Speakers hand for the Commitment of him priſoner to the Fleet accordingly.</p>
+               <closer>
+                  <signed>Hen. Elſyng Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="warrant">
+               <p>By vertue of an Order of the Houſe of Commons, dated <hi>25. Octob. 1645</hi> Theſe are to will and require you forthwith upon the receipt hereof, you ap<g ref="char:EOLhyphen"/>prehend the body of Mr. <hi>John Muſgrave,</hi> and him ſafely deliver unto the Warden of the Fleet, there to be kept priſoner for his contempt to the ſaid Houſe, vntill the ſaid Houſe take further order therein. And the ſaid Warden of the Fleet is hereby required to receive into his cuſtody; the ſaid <hi>John Muſgrave</hi> to be kept priſoner accordingly: for which, this ſhall bee your warrant, dated <hi>27. Octob. 1645.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>WILLIAM LENTHALL,</hi> Speaker.</signed>
+               </closer>
+            </div>
+            <div type="appointment">
+               <head>To the Serjeant at Armes, attending the Houſe of Commons, or his Deputy. And to the Warden of the Fleet, or his Deputy.</head>
+               <p>
+                  <hi>I do appoint</hi> George Bragg, <hi>Gentleman, to be my lawfull Deputy to execute this Warrant,</hi> dated <hi>27.</hi> Octob. <hi>1645.</hi>
+               </p>
+               <closer>
+                  <signed>Edward Berkhead, <hi>Serjeant at Armes.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:113396:2"/>
+            <head>The Copy of a Letter written by <hi>Collonel Cholmley,</hi> who is one of the <hi>Committee</hi> for <hi>Cumberland,</hi> which was ſent up by the two <hi>Commiſsioners,</hi> Mr. <hi>Iohn Muſ<g ref="char:EOLhyphen"/>grave,</hi> and Mr. <hi>Iohn Oſmotherly,</hi> to Mr. <hi>Iohn Blaxton,</hi> a Member of the Houſe of <hi>Commons.</hi>
+            </head>
+            <opener>
+               <salute>MVCH HONOVRED SIR.</salute>
+            </opener>
+            <p>YOur former known vertues and graces, invites me now to crave your favour and beſt aſſiſtance in the behalf of the good Cauſe we have in hand: I have peruſed ſome Articles, and a Petition, to the Honourable Houſe of Parliament, I am ſatisfied in Conſcience (Sir) they be true, and without the Lord be pleaſed to make way for redreſſing of theſe poor Countries, they will be loſt. Sir, the Lord who hath been pleaſed to make you a happy Inſtrument for the good of his Church, and People, I doubt not, but will guide and direct you in this, that my ſelf &amp; many others, will bleſſe God for you, in doing good to a People in ſo great miſeries: I cannot but give you thankes for good already received by your care, which I leave to the further relation of theſe Gentleman, I will ingage my life for their fidelity: thus beſeeching the Lord to bleſſe you in all your proceedings, I ſhall ever be</p>
+            <closer>
+               <signed>Yours to ſerve you, <hi>THOMAS CHOLMLEY.</hi>
+               </signed>
+               <dateline>Graiſtock Caſtle, <date>22. <hi>Apr.</hi> 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:113396:2"/>
+            <head>The Copy of a Letter of Mr. <hi>Richard Cra<g ref="char:EOLhyphen"/>kanthrop,</hi> a Weſtmerland Gentleman of good worth and cre<g ref="char:EOLhyphen"/>dit, and a great Sufferer for the Parliaments Cauſe; which Letter was ſent to Mr. <hi>Blaxton</hi> aforeſaid, and ſent by the ſame Commiſsioners before ſpecified.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>NoT without cauſe we are at this time troubleſome unto you, and de<g ref="char:EOLhyphen"/>ſire your ayd to help our diſtreſſed condition which appears by theſe Articles to be diſtreſſed enough, and truly I am ſo well with the Government of theſe Countries under the Parliament, that I could rather wiſh my ſelf again in priſon for the Parliament; then behold theſe great oppreſſions: never was good intentions ſo wronged by bad Governours, as here under the Parliament; for civill men not looking on the cauſe, but judgeing by the externall appearance, could not but ſay, the Government under the Array was much better; and unleſſe the Honourable Houſe imploy men of Conſcience in Office that hate covetonſneſſe, this Cauſe for all this will periſh, or the Kingdome: Theſe parts are ready to ruine one a<g ref="char:EOLhyphen"/>nother, by reaſon of diſtractions through want of Government: the Com<g ref="char:EOLhyphen"/>mittees have given over to ſet any Ceſſement for the forces, Scots or Eng<g ref="char:EOLhyphen"/>liſh amongſt us, but ſuffer Commanders to ceſſe and levie the ſame, which cauſeth nothing but plunders, bloud and ſlaughters, yet do not ſhew them<g ref="char:EOLhyphen"/>ſelves, but encourage the Commons underneath to withſtand the Scots by open warre, and to pay no Taxes to them, leaving the countrey to the Scots to ſet their own Ceſſements, and encourage them, then to withſtand by the ſword: It is true, the Scots do much wrong in the countrey, in the raiſing of their pay; but the fault is the Committees, that taketh not the Countrey under protection, but give them over to the <hi>Scots,</hi> both to ſet and raiſe their own pay: For who could expect, but that ſoldiers ſeeking their pay up and down a Countrey will do ſpoile? Now it is ſaid, their Commiſſion is onely to ſet Taxes, and ſee them paid; which if true, then they have negle<g ref="char:EOLhyphen"/>cted their whole Commiiſſion, for they ſet none. Sir, I heartily deſire your furtherance for a good Commander, that may be confided in, I could wiſh Mr. <hi>Rigby;</hi> for theſe Counties are more conſiderable, then they are held: the Commiſſioners of Array ſent nine Collonels and their Companies to the Earl of <hi>Newcaſtle</hi> from hence, and if they had been men of courage,
+<pb n="6" facs="tcp:113396:3"/>the <hi>Scots</hi> could not have taken theſe Countries with thoſe Forces: Be<g ref="char:EOLhyphen"/>ſides, the <hi>Iriſh</hi> may land forces at two Havens here in <hi>Cumberland,</hi> if they be not carefully kept: if which be kept, the Mountaines do ſo inviron the Counties, that ſave ſome ſtraight wayes which is eaſie to keepe, the Enemy cannot enter, but ſure with no flying Army, and if wel manned with no Ar<g ref="char:EOLhyphen"/>my; I am made unuſefull for any ſervice, being through long impriſonment impoveriſhed, beſides that which was left, I could not keep: the <hi>Scots</hi> took one horſe, and the Collonel that commands in the Countrey for the Parlia<g ref="char:EOLhyphen"/>ment another, while I was in Priſon, but that I had another in the Parlia<g ref="char:EOLhyphen"/>ments ſervice with a man in <hi>Yorkſhire</hi> which came home, I had had none to have rid on: Sir, if our buſineſſe in Mr. <hi>Muſgraves,</hi> and my particular can go on, I humbly pray your aid, and though I cannot promiſe ſatisfaction yet be aſſured, I ſhall alwayes remain</p>
+            <closer>
+               <signed>
+                  <hi>Yours to the uttermoſt of my power,</hi> Richard Crakanthrop.</signed>
+               <dateline>
+                  <hi>From little</hi> Strickland <hi>in</hi> Weſt<g ref="char:EOLhyphen"/>merland, <date>
+                     <hi>the 23. of 4.</hi> Mon. <hi>1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter written by Lieutenant-Colonel <hi>Bellingham</hi> of <hi>Weſtmerland,</hi> ſent unto <hi>London</hi> to Mr. <hi>Iohn Muſgrave</hi> and Mr. <hi>Iohn Oſmotherly.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>I Here ſend you incloſed a Letter, to Sir <hi>Ralph Aſhton;</hi> it is concer<g ref="char:EOLhyphen"/>ning the buſineſſe you have in hand for your Countrey: I have ſeen your Articles exhibited to the Houſe, and intend within few dayes to adde thereunto: this is therefore to intreat you to take Sir <hi>Ralph</hi> and Sir <hi>Thomas Widdringtons</hi> advice and counſell in this ſame for your better proceedings, I have writ to Sir <hi>Ralph Aſhton.</hi> that you ſhall give him a perfect accompt of the buſineſſe you have in hand; thus not doubting of your care herein, whoſe greateſt care is to finiſh this good Work begun, and will alwayes ſubſcribe himſelfe to be</p>
+            <closer>
+               <signed>
+                  <hi>Your reall and conſtant friend,</hi> James Bellingham.</signed>
+               <dateline>
+                  <hi>From</hi> Carlile <date>
+                     <hi>this</hi> 10. <hi>of</hi> Septemb. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:113396:3"/>
+            <head>The Copie of a Letter, ſent to Mr. <hi>Speaker</hi> of the Houſe of Commons; and read pub<g ref="char:EOLhyphen"/>likely in the Houſe, with this following PETITION.</head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>THE preſent calamity, and the ſad condition of my poore country, now ſubjected to the cruelty of a barbarous and mercileſſe enemy, and my preſent bonds, whereby I am reſtrained of my liberty, being now priſoner in the Fleet; for a ſuppoſed contempt againſt the Honorable Houſe of Commons, neceſsitateth me at this time in theſe ſtraits, to implore your favourable aſsiſtance and helpe for the regaining my liberty, whereby I may be the better inabled to proſecute the cauſe of my coun<g ref="char:EOLhyphen"/>try, wherewith I am intruſted, and to whom I am to give an account of all my proceedings therein. I am very ſorry I have in ſo long a time ef<g ref="char:EOLhyphen"/>fected ſo little, and fallen ſo farre ſhort of my countries expectation; and it is no ſmall griefe unto me to lye here under the diſpleaſure of the Houſe of Commons, whoſe Honour I have ever laboured to vindicate againſt all oppoſition, and for whoſe cauſe I have cheerfully undergone the loſſe of my whole Eſtale, and outward ſupportance, living in exile for two years; and moſt part of that time in a ſtrange Country, and forraign King<g ref="char:EOLhyphen"/>dome: though I had large offers made unto me if I would have joyned with the Enemy, which my heart abhorred to conſent vnto; yet are there ſuch Instruments in my Countrey, who have not onely acted treaſon, but by Oath have likewiſe conſpired together, not onely to deſtroy this Honourable Parliament, but all ſuch as did adhere unto it: Theſe I ſay are preferred to the higheſt Dignities, and places of Truſt, and Command in our Coun<g ref="char:EOLhyphen"/>try, even contrary to the very letter of you rown Ordinance, Papists Tray<g ref="char:EOLhyphen"/>tors and Delinquents, countenanced and protected in their Perſons and E<g ref="char:EOLhyphen"/>ſtates, which is the ground of our complaint, and charge againſt Mr. <hi>Barwis,</hi> and J verily believe the occaſion of the Enemies drawing thi<g ref="char:EOLhyphen"/>ther; and calling their friends out of Jreland, they well knowing what friends they might expect there, as the caſe then ſtood, all which I diſ<g ref="char:EOLhyphen"/>covered the laſt winter, but was diſregarded, which if timouſly had been taken into conſideration; much evil that ſince hath fallen upon our poore
+<pb n="8" facs="tcp:113396:4"/>Country, had been prevented, and a forraign Enemy had had ſmall hopes and leſſe meanes to have invaded us; I humbly deſire that you will be pleaſed to preſent this my Petition here incloſed to the Honourable Houſe of Commons. I deſire nothing but juſtice according to the equity and me<g ref="char:EOLhyphen"/>rit of my cauſe, and I doubt not, but if J may be heard, to cleer my ſelfe of the ſuppoſed contempt layd to my charge, for which I ſtand Committed, and if J have tranſgreſſed againſt any knowne law, I deſire I may be brought to my tryall at law for the ſame; and I earnestly requeſt you, that you would do my Country that favour,) which in juſtice cannot be de<g ref="char:EOLhyphen"/>nyed, (that we may have liberty to proſecute our charge againſt Mr. BARWIS and certaine perjured Traytors, and conſpirators of whom we complaine, who have been the greateſt Instruments of all our Coun<g ref="char:EOLhyphen"/>tries miſeries through their cowardice, baſeneſſe, and treachery: If we make not our charge good, we ſhall not refuſe to ſubject our ſelves to ſuch puniſhment, as by the Rigor of the Law may be inflicted upon us, which we humbly deſire may be put in a way of tryal, and I ſhal ever endeavour to approve my ſelfe thankfull unto you, and a faithfull Servant to my Country.</p>
+            <closer>
+               <signed>JOHN MUSGRAVE.</signed>
+               <dateline>
+                  <hi>From the Fleet</hi> 
+                  <date> this <hi>28.</hi> Octo. <hi>1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="9" facs="tcp:113396:4"/>
+            <head>A Copie of the Petition, which was publikely read in the Houſe of Commons.</head>
+            <head>To the Right Honourable, the Knights, Citizens, and Burgeſſes, in the Com<g ref="char:EOLhyphen"/>mons Houſe of Parliament aſſembled. <hi>The humble Petition of</hi> John Muſgrave, <hi>priſoner in the</hi> Fleet.</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat your Petitioner was in the beginning of theſe troubles, ſix months impriſoned by the Juſtices of the Peace in Cumberland (moſt of them being Commiſſioners of Array) and was after by a Writ of <hi>Habeas Corpus,</hi> removed from Carliſle Goale, and thereupon obtain'd his liberty; But after<g ref="char:EOLhyphen"/>wards, for maintaining the priviledge of Parliament, and refuſing to ſubmit to the Commiſſion of Array, was forced to flye his Country, and live in exile for two years, untill the Country was reduced to the Parliaments obe<g ref="char:EOLhyphen"/>dience: In all that time, the enemy was poſſeſſed of your Petitioners whole eſtate, yet Mr. <hi>Barwis</hi> a Member of this Honourable Houſe, was protected in his Eſtate by the Enemy.</p>
+            <p>That upon the reducement of Cumberland, by the meanes of the ſaid M. <hi>Barwis,</hi> Sir <hi>Wilfride Lawſon,</hi> Knight, his brother in law, was made Com<g ref="char:EOLhyphen"/>mander in chiefe there, and all, or the moſt of the Delinquents and Papiſts, protected in their perſons and eſtates, to the great grief of the wel-affected: whereupon your Petitioner, with others, preſented their grievances (a Copy whereof is hereunto annexed) unto the ſaid M. <hi>Barwis;</hi> and how the ſaid Sir <hi>Wilfride Lawſon</hi> had betrayed the Countrey into the Enemies hand, and how he had acted upon the Commiſſion of Array; all which, the ſaid Mr. <hi>Barwis</hi> ſlighted, and hath ever ſince endeavoured to continue the ſaid Sir <hi>Wilfride Lawſon</hi> in his power, and (as is conceived) by Mr. <hi>Barwis</hi> meanes, made high Sheriffe of Cumberland, which is contrary to ſeverall Ordinances of Parliament, he being uncapable of any ſuch office, by reaſon of the treaſon he hath acted againſt the State; and ſince, by the ſaid Sir <hi>Wilfride Lawſons</hi> oppreſſions, the Countrey is made diſaffected, and the Enemy (as is concei<g ref="char:EOLhyphen"/>ved) incouraged to poſſeſſe themſelves of that Countrey, to the undoing of many thouſands, and hazard of loſing the whole North, if not timely pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>That about a year ſince, your Petitioner, by petition and articles, did ſet forth the miſcariages of the ſaid M. <hi>Barwis,</hi> and the unſetled condition of his Countrey, which he delivered to a Member of the Houſe of Commons, and acquainted divers others with the ſame; but wearied with attendance, re<g ref="char:EOLhyphen"/>paired home to his Countrey after 13. weeks attendance.</p>
+            <p>
+               <pb n="10" facs="tcp:113396:5"/>
+That after divers of the well-affected, of Cumberland and Weſtmerland of good credit, did ſollicit your Petitioner, and Mr. <hi>Oſmotherly,</hi> to proſecute a further charge againſt the ſaid Sir <hi>Wilfride Lawſon,</hi> and the Commanders and Committees of the ſaid ſeverall Counties, which they undertook for the good of their Countrey, and upon their coming hither, the ſame was referred by the Houſe of Commons to a Committee; whereof Mr. <hi>Liſle</hi> is Chair<g ref="char:EOLhyphen"/>man:</p>
+            <p>That the ſaid Mr. <hi>Liſle</hi> before the Committee had further order, then to receive the ſeverall informations and Charges to be given by your Petitio<g ref="char:EOLhyphen"/>ner, and the ſaid Mr. <hi>Oſmotherley,</hi> would have examined your Petitioner, and gave way to Mr. <hi>Barwis</hi> likewiſe to ask us queſtions before he would except our ſeverall Charges; and upon our refuſall, to anſwer; having received our papers of Informations, moved the Houſe to have power to commit us, if we refuſed to be examined.</p>
+            <p>That upon further order of the Houſe of Commons to the ſaid Commit<g ref="char:EOLhyphen"/>tee, to inable them to ask us queſtions; upon examining, the ſaid M. <hi>Barwis</hi> was admitted to be preſent to aske us what queſtions he would; though not any of our friends, nor our ſelves together, were admitted to be preſent: whereupon your Petitioner deſired to have the queſtions in writing to con<g ref="char:EOLhyphen"/>ſider of for matter of Law, but it could not be obtained by your Petitioner; whereupon your Petitioner deſired Mr. <hi>Barwis</hi> might anſwer the Charge given againſt him, and your Petitioner would be ready to proſecute the ſame according to Law.</p>
+            <p>That though this honourable Houſe hath paſſed ſeverall Ordinances a<g ref="char:EOLhyphen"/>gainſt Delinquents, for diſabling them to be of any Committee; yet the ſaid Mr. <hi>Barwis</hi> being deſired by your Petitioner, never as yet informed the Parliament, how the ſaid Sir <hi>Wilfride Lawſon,</hi> with divers others of the Committee were Delinquents, yet continued in their Authorities, which is contrary to the Truſt repoſed in him by the Countrey, and his Oath taken in Parliament.</p>
+            <p>That your Petitioner hath attended ſix months and more, and yet hath not got his Countries Cauſe put in a way of tryall.</p>
+            <p>That upon report of the ſaid Mr. <hi>Liſle,</hi> your Petitioner upon his pretended refuſall to be examined, was committed to the Fleet by the Honourable Houſe of Commons, for a ſuppoſed contempt. Since Mr. <hi>Oſmotherley</hi> his fel<g ref="char:EOLhyphen"/>low Commiſſioner for the county, was arreſted by one <hi>Iohn Fiſher,</hi> meerly for vexation, upon an Action of 250. <abbr>l.</abbr> and is now priſoner in Woodſtreet Counter, though the ſaid <hi>Iohn <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſher</hi> well knew.</p>
+            <p>That the ſaid Mr. <hi>Oſmotherley</hi> was ſent to the Parliament by the Coun<g ref="char:EOLhyphen"/>trey, and was, and ought to have beene protected and priviledged from all
+<pb n="11" facs="tcp:113396:5"/>Arreſts of that nature, while he is ſo imployed by his Countrey to the Par<g ref="char:EOLhyphen"/>liament: As others were, and are ſtill priviledged in the like caſe.</p>
+            <p>That your Petitioner, with the ſaid Mr. <hi>Oſmotherley,</hi> are ſtill ready to make their Charge good againſt the ſaid M. <hi>Barwis,</hi> and the others com<g ref="char:EOLhyphen"/>plained of, if they may be admitted to proceed, and have the Witneſſes to be produced, examined upon Oath in open Court, and not privately.</p>
+            <p>Your Petitioner humbly prayeth, that he may be admitted to the Barre to anſwer for himſelf, and he doubteth not, but to cleare himſelfe of the contempt laid to his charge, That he with his fellow Com<g ref="char:EOLhyphen"/>miſſioner may be ſet at liberty, and admitted to proceed in the pro<g ref="char:EOLhyphen"/>ſecution of their Countries cauſe: That the ſaid Sir <hi>Wilfride Law<g ref="char:EOLhyphen"/>ſon,</hi> and all ſuch as are in Authority, either in Committee, or other Command there, they being traytors to the State, may be removed out of all Authority, according to your former Ordinances. That their perſons may be ſecured; to the end, they may be brought to condigne puniſhment for their offences, and ſuch further courſe taken for freeing the ſaid Counties of the Enemy, and ſecuring the ſame for the future time; as to your Honours Wiſdomes ſhall ſeeme meet.</p>
+            <p>
+               <hi>And your Petitioner ſhall as in duty bound, pray, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>The Copy of another letter from Lieutenant Collonel <hi>Bellingham,</hi> to Mr. <hi>John Muſ<g ref="char:EOLhyphen"/>grave,</hi> and Mr. <hi>Joh. Oſmotherly,</hi> received by Mr. <hi>Muſgrave,</hi> ſince he came into Priſon.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have ſeen a Letter which you ſent to Mr. <hi>Crakanthrop;</hi> in which Let<g ref="char:EOLhyphen"/>ter you declare your ſelves to be much beholding to my Collonel and my ſelf, and are glad to ſee us ſo well affected: In confirmance of which, I doe heer really and freely confeſſe to be a humble and loyall ſervant to my Countrey, and the States of this Kingdome; but moſt eſpecially to find out ſuch that pretend one thing and doth another: I meane ſuch as be for their owne parti<g ref="char:EOLhyphen"/>cular ends: for the Lord he knowes, too many, we have at this day re<g ref="char:EOLhyphen"/>maining in Weſtmerland and Cumberland; but I make no doubt, but you in time, will rectifie moſt, if not all ſuch abuſes, I here ſend you incloſed a petition which was preferred to the Committee of Warre at Yorke, which Petition the
+<pb n="12" facs="tcp:113396:6"/>whole County will mannage if occaſion be. I pray you let me hear from you, now and than how the buſineſſe goes with you, I thinke it were not amiſſe, if you ſeek for the better ſettlement of this County: for God he knowes, we are daily and hourly in danger of the Iriſh: Thus not doubting of your care herein, I remain</p>
+            <closer>
+               <salute>Sirs,</salute> 
+               <signed>Your aſſured and faithfull friend, to do you ſervice. JA. BELLINGHAM.</signed>
+               <dateline>
+                  <hi>From Carlile, </hi> 
+                  <date>this <hi>2. of Novem. 1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of another Petition of Mr. <hi>Iohn Muſgraves.</hi>
+            </head>
+            <head>To the Right Honourable, the Knights, Citiſens and Burgeſſes in the Commons Houſe of Parliament aſſembled. <hi>The humble Petition of</hi> Iohn Muſgrave <hi>Gentieman, now priſoner in the Fleet.</hi>
+            </head>
+            <p>
+               <hi>Humbly ſheweth,</hi>
+            </p>
+            <p>THat your Petitioner, together with one Mr. <hi>Oſmotherley</hi> in April laſt, were ſent by ſundry of the well-affected of Cumberland and Weſt<g ref="char:EOLhyphen"/>merland, to preſent their grievances to this honourable Houſe, thereby ſet<g ref="char:EOLhyphen"/>ting forth the treaſons, plots, &amp; oppreſſions of ſome now in high Authority there, which by this honourable Houſe was referred to a Committee, wher<g ref="char:EOLhyphen"/>of M. Liſle is Chair-man, who would have examined your Petitioner, yet re<g ref="char:EOLhyphen"/>fuſed to give him any time to adviſe for his anſwer, to the great obſtruction of Iuſtice. &amp;<note n="(a)" place="margin">Rotul. Parl. 1 M. 4 Num. 1.16. Iacob. the Lord Carew caſe. Cook. 2. part. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſt. on Mag. chart. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.29 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25. E 3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. E. 3. c. 3 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7 E. 3. c. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. Ed. 3.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> E. 3. c. 9. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4. E. 3 c. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4, Cook Inſt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> par upon <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>agn. Ch. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 26. &amp; 29,</note> which the Law alloweth, in Caſes of Treaſons, Fellonies, &amp;c.</p>
+            <p>That upon the report of the ſaid Mr. Liſle, of your Petitioners pretended refuſall to be examined; your Petitioner, though <hi>(b)</hi> he was not in that caſe compellable to auſwer, was the 28. of Octob. laſt, committed to the Fleet, by an Order of this Houſe for a ſuppoſed contempt: neither as yet hath the ſaid Committee taken your Petitioners Cauſe into conſideration, the ſame being again referred unto them upon a Petition and Letter preſented to this honourable Houſe by Mr. Speaker, the 8. of Novem. laſt, And the ſaid Mr. <hi>Liſle</hi> hath ever ſince abſented himſelf of purpoſe (as your Petitioner con<g ref="char:EOLhyphen"/>ceiveth) to retard your Petitioners proceedings; whereby Iuſtice is much delayed, to the diſhonour of this high and honourable Court of Parliament; &amp; <hi>(c)</hi> which, tendeth to the deſtruction of your Petitioner by impriſonment, being exhauſted, and brought to great ſtraits by his former, long, and fruit<g ref="char:EOLhyphen"/>leſſe attendance upon the ſaid Committee, beſides the great griefe and diſ<g ref="char:EOLhyphen"/>couragements which the well-affected of his Country have received therby, doubting what things will come unto, being thus long delayed and put off.</p>
+            <p>
+               <pb n="13" facs="tcp:113396:6"/>
+Your Petitioner humbly prayeth (in regard he is ready to proſecute his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arge <hi>ſec. legem terrae,</hi> if he may have his liberty, and the benefit of the law, which your Petitioner holdeth to be his<note n="(d)" place="margin">9. H. 3. c. 29. 5 E. 3. c. 4. 37. Ed. 3. c. 18. Cook par. 2. Inſtit. Marl. per<g ref="char:EOLhyphen"/>amb. c. 1.</note> birth-right and beſt inheri<g ref="char:EOLhyphen"/>tance; the ſame being that golden Rule and Meet-wand to meaſure out e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nally Juſtice to rich and poor alike) that Juſtice may be done to your Pe<g ref="char:EOLhyphen"/>tioner, according to the great Charter of this Kingdome, it being the chief-Pillar &amp; Supporter of the Fabrick of this Common-wealth, confirmed by<note n="(e)" place="margin">Status. Aboliſh. Star-ch. 17. Caroli.</note> This, and ſo many<note n="(f)" place="margin">34. E. 1. c. 4. Petiti<g ref="char:EOLhyphen"/>on Right, 3. Caroli.</note> Parliaments preſerved hereunto, by the effuſion of ſo much Engliſh<note n="(g)" place="margin">Parl. Proteſt. 5. Maii, 1645</note> bloud: to the conſervance &amp; defence whereof, this honou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Parliament hath tyed Us and your Selves by ſo many Bonds and Co<g ref="char:EOLhyphen"/>mmants<g ref="char:punc">▪</g> Oaths and Proteſtations, as your Petitioner hopeth you will invio<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly uphold ſtill the ſame; And not ſuffer your Petitioner to be any lon<g ref="char:EOLhyphen"/>ger ſubjected to the<note n="(h)" place="margin">Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k Inſt par. 2. Magn. Ch. c 29.</note> dilatory and partiall tryall by diſcretion of any Committee, but may have Juſtice adminiſtred to him by that pretious and ordinary tryall, <hi>per legem terrae.</hi>
+            </p>
+            <closer>
+               <signed>Iohn Muſgrave,</signed>
+               <date>6. Decemb. 1645.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter written to Sir <hi>Thomas Withrington,</hi> one of the Bur<g ref="char:EOLhyphen"/>geſſes for <hi>Barwicke,</hi> from Mr. <hi>Iohn Muſgrave,</hi> priſoner in the Fleet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Expected ere this to have heard of your report to have beene made to the Houſe, upon the vote paſſed for Mr. (<hi>Crakanthrope</hi> and my ſelfe for the great loſſes that we have ſuſtained by the Enemy, the Iuſtices of the peace, and Com. of Array in Cumberland, and Weſtmerland; I here attended the laſt Winter, <hi>13.</hi> Weeks before I could get the Petition preſented to the Houſe, ſix moneths upon the Committe I waited, before I could get any vote paſſed upon the Petition, ſince the vote of the Committee was made, which you are to reporte unto the Houſe, it is now nigh four moneths; yet nothing done, which makes me much feare that little good is intended us; and that we ſhall be made more miſerable in ſeeking the recovery of what we have loſt, then in looſ<g ref="char:EOLhyphen"/>ing the ſame, undergo more hardſhip and be brought to greater ſtraits by waiting on you, then by lying in the Enemies Priſons for you. You know the differring of Iuſtice; in law is holden for denyall of Iuſtice. The <hi>Parliament</hi> put us to an oath to maintaine the lawfull liberty of the Subject, the Enemy becauſe I would not joyne with them in the breach of it, and in betraying my Country forced me into <hi>Exile,</hi> and ſeiſed on that little Eſtate I had; now againe upon the report of Mr. <hi>Liſle</hi> after his many differrings and putings off even to the ha<g ref="char:EOLhyphen"/>zard of the loſſe of our Country, and if Sir <hi>Iohn Browne</hi> (as is well knowne) with his Scottiſh forces (upon Cumberland forces deſerting him) by his valour
+<pb n="14" facs="tcp:113396:7"/>had not prevented it, the Enemy by ſome of our ſeeming friends who joyn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with them, had without any great difficulty, no oppoſition being made by Col<g ref="char:EOLhyphen"/>lonel <hi>Lawſon,</hi> effected their deſignes in that Country of my pretended re<g ref="char:EOLhyphen"/>fuſall to anſwer which I did not, but only deſired the Interrogatories to adviſe of before I anſwered for matter of Law, which contrary to Law he refuſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grant me, though earneſtly deſired, all which may fully appeare by my anſwer and reaſons given for not anſwering then to the Interrogatories before the Committee (and taken in writing by Mr. <hi>Liſle</hi> himſelf, before the ſame Com<g ref="char:EOLhyphen"/>mittee, and ſome other members of the Houſe, and which was then read unto mee) am I againe caſt into priſon, and condemned thereunto unheard, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greateſt fault (if any be) in this caſe is my lawfull maintenance of our Com<g ref="char:EOLhyphen"/>mon Freedoms &amp; my doubting, and deſire to be reſolved before I ſhould act that which ſeemed to me then, and now I know to be not agreeable to Law; and here I lye in priſon for this, while traytors, and the grand Enemies to the State, and by this meanes ſuffered to walke London ſtreets, even they of whom I complaine<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for which I cannot but blame Mr. <hi>Liſle,</hi> being thus injuried by him, and my Country almoſt undone, for as Sir <hi>Edward Cook</hi> well obſerveth, it is the greateſt Injuſtice, when the Innocent is oppreſſed under colour of Iuſtice; whereby he ought to be protected: I am perſwaded that if that honourable Houſe by whom I was committed were truly acquainted with my ſuffering condition, and knew the ground thereof, they would not ſuffer me to lye in priſon one day day longer; and if they rightly underſtood the unſetled ſtate of our Countrey<g ref="char:punc">▪</g> and what harm the neglect thereof hath been to both the Kingdomes (this and <hi>Scotland</hi>) and what advantage to the enemy, and alſo what further evill may en<g ref="char:EOLhyphen"/>ſue thereupon; I beleeve we had not been ſo ſlighted as we have been, neither our Countrey-men had had ſuch juſt cauſe to have complained of delay and neg<g ref="char:EOLhyphen"/>lect as they by their letters to me ſent daily doe, neither had the adverſary, I ſuppoſe, been ſo born out. As long as honeſt men are thus ſlighted, neglected, and kept under, their juſt complaints thus delayed and ſuppreſſed, while traytors, Papiſts and Delinquents be thus countenanced and protected, as thoſe of whom we complain have been and ſtill are; while the greateſt places of truſt and command are conferred on, and continued in the hands of traytors, and the grand enemies of the State, as hath been and now is with us, and ſtill they are kept up in their authorities; while the Parliaments and the Kingdomes faithfull friends and ſervants are thus moleſted, oppreſſed, and ſhut up in priſons for their good affection, forwardneſſe, and willingneſſe to ſerve the State and their Coun<g ref="char:EOLhyphen"/>trey) how can we expect the reſtauration of our ancient and long loſt liberties? how can we look for an end of theſe our troubles? while things are thus carried o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, little peace can be hoped for to this poore and diſtreſſed Kingdome. Let us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more cheriſh the Serpent in our boſome, which having got ſtrength will againe
+<pb n="15" facs="tcp:113396:7"/>wound us, if not deſtroy us: I could wiſh that theſe troublers and enemies of our State againſt whom onely I informe, and with whom I only contend, may no longer be ſuffered to eſcape, but may be brought to condigne puniſhment, accor<g ref="char:EOLhyphen"/>ding to the Law, and merit of their offences, leſt by others faults the Parliament ſhould ſuffer in their credit, leſt that it ſhould be thought the Parliament were offended with us for ſeeking juſtice, and preſſing forward our Countries juſt complaints and grievances, leſt it ſhould be thought the Parliament ſhould ſeem to juſtifie (or connive) at theſe their lawleſſe practiſes &amp; oppreſſions (which we are ready in a legall way to make good according to our charge) by forbear<g ref="char:EOLhyphen"/>ance and ſufferance of them For it is a maxime in Law, <hi>Qui non prohiber quod prohibere poteſt, aſſentire videtur;</hi> [he that ſuffereth &amp; hindreth not that which he may let, is conceived and ſaid in Law to aſſent.] Let no ſuch blot lie upon that honorable Houſe; let not the potency of our adverſaries over throw the juſtneſſe of our cauſe, neglect us no more, leſt (beſides the blame and outcries for juſtice) you bring ruine upon us and your ſelves, by leaving us open to the Iriſh, which may the ſooner invite <hi>Ormond</hi> to invade us with his Popiſh and revolted Forces, having ſuch an eaſie entrance, if the ſame be not prevented. As you tended the good and quiet of the State, timely provide for this, and have reſpect to our poor Countrey; let all delinquents, traytors, and men diſaffected, all ſuch as are tain<g ref="char:EOLhyphen"/>ted with covetouſneſſe, or cowardize, be removed out of all authorities, and the ſame put in the hands of confiding men, fearing God and hating covetouſneſſe, and all baſeneſſe, ſuch as would not bee in the worſt of times carried away, or corrupted through feare, or loſſe of goods, or hope of preferment, to joyne with or ſubmit unto the Enemy, or act in a neutrality, which is holden for deteſt<g ref="char:EOLhyphen"/>able: Neglect of thoſe parts may prove of dangerous conſequence; There,<note place="margin">The Ports Whit<g ref="char:EOLhyphen"/>church &amp; VVork<g ref="char:EOLhyphen"/>ington in Cumber<g ref="char:EOLhyphen"/>land, open to Ire<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and.</note> and not well elſewhere in the North, may the Iriſh, and at their pleaſure; and daily are expected there, from thence Digby by conveyance of ſome of our Engliſh Commanders there (as is conceived) had free and ready paſſage into the Ile of Man, and ſo for Ireland; from thence the Earle of <hi>Antrim</hi> had like paſſage, and way into Ireland, with the Royall Commiſſions for Ceſſation of Armes there, which produced ſuch ſad effects in that Kingdome: <hi>Montroſſe</hi> made his way for Scotland twice that way, to the great loſſe of that Kingdome, he in<g ref="char:EOLhyphen"/>vaded Scotland and tooke <hi>Dumfreeze;</hi> hence the Earle of Newcaſtle had his firſt riſe of his popiſh Army in the North, and daly ſupply of Men and Monies till the reducement thereof by the Scottiſh Horſe, thence ſince the reduce<g ref="char:EOLhyphen"/>ment the Enemy in Dublin and the Ile of man, had Cole and Victuals, Here the whole Gentry are Malignants, Delinquents, Papiſts, Popiſh, or baſe Tempo<g ref="char:EOLhyphen"/>rizers; Here not ten of the Gentry in both theſe Counties, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay I dare ſay not ſo many, have proved Cordiall to the State, but have ſubmitted themſelves, or acted to and with the Enemy; Here the Gentry have revolted ſince the reduce<g ref="char:EOLhyphen"/>ment thereof, more then once or twice. Here will and oppreſſion, raigne: more
+<pb n="16" facs="tcp:113396:8"/>then in any Country now ſubjected to the ſtate, ſo long as the powers and au<g ref="char:EOLhyphen"/>thorities reſides in the hands of ſuch Newtrals, Temporiſers, Selfe-ſeekers, Traytors and Delinquents, as now it is, the Enemy (though peace for the pre<g ref="char:EOLhyphen"/>ſent were concluded and ſetled) yet might upon new and after diſcontents of a ſodain, indanger the loſſe of the whole North, by the helpe of that popiſh faction in thoſe parts, who have got in their hands the cheife places of truſt and command there, though you had no care nor regard of us, yet for your own good, prevent this miſcheife, the which done may produce (though little conſidered) the fruite which may prove to be a well grounded peace to the whole Kingdome; Though neglect of us, could be no prejudice to the publike, which will be of no ſmall con<g ref="char:EOLhyphen"/>cernment (as I have already ſhowne) yet the redreſſe of our Countryes greevan<g ref="char:EOLhyphen"/>ces in common equity ought not to be ſo lightly paſſed over, all which hitherto. (but all in vaine, for fourteen moneths together) have been preſſed on, but by one Committee or other ſtill fruſtrated; and in Iuſtice you cannot deny us audience, and an equall tryall either at the common Law, or in full Parliament as to your wiſedomes ſhall ſeeme beſt for the publike, and our perticular good, for that the Law is our common birth-right; which we may without offence (J hope) and do challenge and claime the benefit thereof, and therefore we have no cauſe to doubt or be fearfull in putting our ſelves forth, conſidering how that generall rule in Law, is ſtill in force: <hi>Quod curiâ regis non debet deficere conque<g ref="char:EOLhyphen"/>rentibus in juſtitia adhibenda; That the Kings Court ſhould never be fai<g ref="char:EOLhyphen"/>ling (to ſuch as complain) in the doing of Juſtice.</hi> And of Courts Iudiciall, we acknowledge the Parliament ſupream, which ever hath been, and I hope ſtill will be the great and faithfull upholder of the common Law, and of the rights and priviledges of all the loyall and true hearted freeborne of this King<g ref="char:EOLhyphen"/>dome; I pray you good Sir, peruſe theſe papers, and Copies of Letters, the O<g ref="char:EOLhyphen"/>riginalls <hi>I</hi> have all, except two, which Mr. <hi>Blaxſton</hi> hath, to whom they were ſent and deliverea; withall, <hi>I</hi> would intreate you to preſent this my Pe<g ref="char:EOLhyphen"/>tition to the Houſe of Commons, Mr. <hi>Speaker</hi> hath ſeene it, and ſaith he will ſpeake to it, <hi>I</hi> could not preſſe him further in reſpect he had formerly preſented one for me: which was referred to the former Committee, but by <hi>Mr. Liſle</hi> (who is the Chair man) ſuppreſſed, and I could never hear more of it, the ground of this my Petition; <hi>I</hi> hope you will let me underſtand what you will do here concerning the whole matter, by this bearer <hi>Mr. Hobkins</hi> (the Warden of the Fleet) which hath ſhewn me kindneſſe, in his readineſſe to do me this favour, if by your meanes and the Iuſtice of the Houſe <hi>I</hi> may ob<g ref="char:EOLhyphen"/>tain my liberty, and our countries cauſe put in a way of tryall without fur<g ref="char:EOLhyphen"/>ther procraſtination; <hi>I</hi> ſhall not be unthankfull, but ever reſt.</p>
+            <closer>
+               <dateline>
+                  <hi>From Fleet Priſon </hi> 
+                  <date>this <hi>25 of the 12. moneth, 1645.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours to ſerve and honour you, JOHN MUSGRAVE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="17" facs="tcp:113396:8"/>
+            <head>The Copie of another Letter, written by Mr. <hi>Muſgrave,</hi> to Sir <hi>Thomas Withrington;</hi> Burges for the Town of <hi>Barwick,</hi> and a Member of the Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day I received my Petition back again with your direction, and advice for altering the ſame, and how you would preſent it to the Committee for Petitions, for your advice I thanke you, yet J cannot dec<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne my former Petiti<g ref="char:EOLhyphen"/>on, nor can J conſent, neither hold I it fit to alter it, in reſpect that I have ſent the Copie of it into the Country, to informe them how things bee, as alſo for that I hold it convenient to diſcover Mr. <hi>Liſles</hi> unequall dealings both before and ſince my Petition preſented to the Houſe by Mr. <hi>Speaker;</hi> ſeeing he is not aſhamed to do us ſuch wrong: I am not affraid to complaine, and make it knowne, leaſt by ſilence I ſhould not only looſe my ſelfe, but like wiſe undoe my Country, and the Parlament ſuffer in both, as touching preſenting it to the Committee for Petitions, they have (I conceive) not power to receive it without ſpeciall order from the Houſe, it having refer once to ſo many Mem<g ref="char:EOLhyphen"/>bers of the Houſe, to wit ſo many of the former Committee, as joyned with Mr. <hi>Liſle,</hi> in making up that report. For my refuſing to anſwer, under which I ſuf<g ref="char:EOLhyphen"/>fer; you know the firſt charge againſt Mr. <hi>Barwis,</hi> though committed by the Houſe to the Northen Committee whereof you are Chairman, yet upon your report it was ordered by the Houſe to be delivered back in regard it con<g ref="char:EOLhyphen"/>cerned a Member of the Houſe, and was not read upon Commitment, which you returned back to me accordingly, &amp; upon an after order it was referred to another Committee, whereof Mr. <hi>Liſle</hi> is Chairman; therefore I cannot expect any fruit to accrew by ſo doing, onely to the Houſe have I appealed, before whom allready my cauſe dependeth; who, if they refuſe to beare me for my ſelfe and my Country, it is impoſſible for them either to underſtand our right, or be able to do us juſtice, coniſder I pray you my former Letter of the <hi>25.</hi> of this in<g ref="char:EOLhyphen"/>ſtant month, and let us have no cauſe to complaine, if I have offended let me be brought to judgement, if no evill be found in me why am I caſt into bond? if for my ſervice, and fidelity to the State, a Priſon muſt be my Portion<g ref="char:punc">▪</g> I can<g ref="char:EOLhyphen"/>not but ſay tis a bad reward, I have purchaſed for my labour; but I am nothing dejected, but am willing to undergo more for my Country, and am reſolved to abide the worſt of extremities, rather then do any act which may diſhoner me or my Family, or unbeſeeming the Truſt committed unto me.</p>
+            <p>
+               <hi>Sir,</hi> If you will put up to the Honourable Houſe of Commons this my Peti<g ref="char:EOLhyphen"/>tion, I doubt not but my innocency will plead for me, and the juſtneſſe and con<g ref="char:EOLhyphen"/>ſiderableneſſe of the cauſe will procure me audience; and then I fear not but truth ſhall prevail in judgement, for which we have hitherto contended. I de<g ref="char:EOLhyphen"/>ſire once more to know your further pleaſure, and minde herein; And if you
+<pb n="18" facs="tcp:113396:9"/>will do our Country this ſervice in preſenting my Petition, it will be not only to your honour, but (will oblige them unto you, and) I ſhall ever remain to be</p>
+            <closer>
+               <dateline>
+                  <hi>From Fleet-priſon,</hi> 
+                  <date>
+                     <hi>the 29. of the 12. Moneth.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours to do you ſervice; JOHN MUSGRAVE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To his loving Friend Mr. <hi>JOHN MUSGRAVE,</hi> in the Fleet; Theſe.</head>
+            <opener>
+               <salute>BELOVED,</salute>
+            </opener>
+            <p>I Received a Letter from you the firſt of this Moneth, I am not a little troubled to hear the ſtrange occurrents of this preſent evill age, and am very ſenſible thereof; but to hear of your trouble in ſuch a cauſe doth much perplexe me: that while we go about to our great trouble and charge, to do the Kingdome and Parliament ſervice, to have our Agents impriſoned, I think no age could parallel ſuch things; it cannot be but there remaineth a terrible judgement to this Nation, which in all probability is not farre off: There was nothing ever perſwaded me that the ſword ſhall be ſhort ſheathed, then the expectation I had of the Juſtice of the Houſe of Parlia<g ref="char:EOLhyphen"/>ment; for I thought, that though the genrrall corruption of manners, in this Nation, did much provoke the Almighty, yet the Piety, Juſtice, and Zeal of that Houſe, would mitigate his Ire; but he that doth all things, will turn all to the glory of his Name, &amp; peace of his people, ſo often promiſed by His mouth. I have writ many Letters every Week or 14. dayes at lon<g ref="char:EOLhyphen"/>geſt, for this is the 18. Letter at leaſt, in all things of good conſequence:</p>
+            <p>For that you ſay of Collonel <hi>Lawſon,</hi> Mr. <hi>Darley</hi> and Mr. <hi>Blakeſton</hi> are deluded with falſe rumours, for Collonel <hi>Lawſon</hi> never (of all his carria<g ref="char:EOLhyphen"/>ges) behaved himſelf worſe, upon ſo fair an advantage to have done the Kingdome ſervice; of his carriage all men cry out, even his own ſouldiers: Upon the comming in of the Enemy into <hi>Cumberland,</hi> he and Sir <hi>Patr. Carwen</hi> was in conſultation, <hi>Carwen</hi> came to <hi>Penreth,</hi> left his houſe brave<g ref="char:EOLhyphen"/>ly furniſhed for the Enemy; <hi>Lawſon</hi> made a ſhew of gathering the Coun<g ref="char:EOLhyphen"/>try, and ſent to Sir <hi>John Brown</hi> to deſire his aſſiſtance, who willingly agreed to joyn with him; yet was Sir <hi>John Brown</hi> deſired to joyn with a Partee of his own countrymen, and ſo keep out an Enemy, rather then ſuffer him to enter: So he ſent Collonel <hi>Lawſon</hi> 100. Horſe, deſiring him to make his beſt reſiſtance, and that himſelf would make haſte with the reſt of his horſe for his defence. But <hi>Lawſon</hi> not deſirous to fight, ſuffered the Enemy quietly to paſſe without ever skirmiſhing with him, to the great grief of Sir <hi>John Brown</hi> as you may well perceive, who had refuſed to joyn with his own countrymen to joyn with <hi>Lawſon:</hi> But ſeeing it ſo, he deſired Col<g ref="char:EOLhyphen"/>lonel
+<pb n="19" facs="tcp:113396:9"/>
+               <hi>Lawſon</hi> to keep the water at <hi>Bownes,</hi> if in caſe the Enemy retreated, and he would after him into <hi>Scotland,</hi> which he did at the ſame tide, and fell upon the Enemy upon <hi>Annon</hi> Sands with 300. horſe onely, the Ene<g ref="char:EOLhyphen"/>my being thought to be 1600. yet had he good ſucceſſe, ſlew divers, and ſo diſcouraged the reſt, that they made a retreat back to <hi>Bownes,</hi> from whence Collonel <hi>Lawſon</hi> was gone, and had withdrawn his forces 5. miles from <hi>Bownes;</hi> So the Enemy returning, found a Company of Dragoons of Collonel <hi>Cholmleys</hi> ſent thither, thinking to finde there Collonel <hi>Lawſon</hi> and his Companies, ſo they took moſt of the Dragoons, their Horſes and Armes: Yet it is conſiderable, the Enemy went over the Water on the 4. day of the Week at night, and returned the 6. yet had <hi>Lawſon</hi> in that ſhort time called away his forces. This Relation I had from Sir <hi>John Brown</hi> himſelf, and finde it ſeconded by all men, no man but condemning Collonel <hi>Lawſon,</hi> no not his own friends. <hi>Lawſon</hi> had here ſuch an opportunity to have done his Country and the Kingdome ſervice, as never a fitter was of<g ref="char:EOLhyphen"/>fered to any; Sir <hi>John Brown</hi> had given them no reſt, they were ſo wearied through want of ſleep, that very many were taken by the Country peo<g ref="char:EOLhyphen"/>ple, and it was eaſie enough for <hi>Lawſon,</hi> if he had had any minde to have taken <hi>Digby, Langdale,</hi> and many others, who were forced to take a Boat and go to the Iſle of <hi>Man.</hi> Sir <hi>John Brown</hi> told me, he would have a Coun<g ref="char:EOLhyphen"/>cell of Warre to paſſe on <hi>Lawſon</hi> for this carriage: And if Sir <hi>John Brown</hi> had not repaired what was amiſſe, he might himſelf have been queſtioned. Thus much for Collonel <hi>Lawſons</hi> carriage: Remember me to Mr. <hi>Oſmo<g ref="char:EOLhyphen"/>therley,</hi> preſent my beſt reſpects to Collonel <hi>L.</hi> and to all the Brethren to whom I am known, my troubles are great for you, but the Lord that deli<g ref="char:EOLhyphen"/>vered us when we were ſurrounded with adverſaries, will deliver you. The Brethren in <hi>Cumberland</hi> greet you, and purpoſe to ſend ſhortly to you. The God of Peace give Peace unto his Church, and grant you patience.</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtmerl.</hi> 
+                  <date>
+                     <hi>the</hi> 6. <hi>of the</hi> 12. <hi>Moneth.</hi>
+                  </date>
+               </dateline>
+               <salute>Farewell.</salute>
+               <signed>Your Brother in the Lord Jeſus; <hi>RICH. CRAKANTHROP.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="proceedings">
+            <head>Die Sabbati, 8. Novembr. 1645.</head>
+            <p>
+               <hi>MR. Speaker</hi> acquainted the Houſe, That he had received a Letter from one <hi>John Muſgrave</hi> a priſouer in the Fleet, with a Petition incloſed: The Letter was of <hi>28. Octob. 1645.</hi> and was read, and likewiſe the Petition, and was concerning Mr. <hi>Richard Barwis,</hi> a Member of the Houſe, and o<g ref="char:EOLhyphen"/>thers imployed in the ſervice of the Parliament; And it is thereupon Ordered, this Letter, Petition, and Papers, be referred to the Committee to whom the Papers formerly brought in from the <hi>Scots Commiſſioners,</hi> and from the ſaid.
+<pb n="20" facs="tcp:113396:10"/>
+               <hi>Muſgrave,</hi> and <hi>Oſmotherley,</hi> were referred; who are to take the ſame in<g ref="char:EOLhyphen"/>to conſideration; And alſo a printed Pamphlet, entituled, <hi>Englands Birth<g ref="char:EOLhyphen"/>right,</hi> and to report their opinions thereupon to the Houſe.</p>
+            <closer>
+               <signed>Hen. Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>The Publiſhers to the Reader.</head>
+            <p>COurteous Reader, Thou mayeſt for thine own information in thy Liberty (as thou art a Freeman of England) read a late publiſhed Book, called <hi>Englands Birth-right:</hi> And Lieutenant Collonel <hi>Lilbornes</hi> late Book, called <hi>Innocency and Truth juſtified;</hi> being an Anſwer to Mr. <hi>William Prinnes</hi> Book, called <hi>the Liar confounded;</hi> but chiefly, weigh ſeriouſly his diſcourſe againſt the <hi>Merchant Adventurers</hi> and their Monopoly, which begins in that Book <hi>Page</hi> 46. and continues to <hi>Page.</hi> 62.</p>
+            <p>And if thou be a Chriſtian, and tendereſt the good of thy native Coun<g ref="char:EOLhyphen"/>try, or haſt an affection to the ſecond Table of Gods Law, the ſtanding for which Maſter JOHN MUSGRAVE is now impriſoned; take no<g ref="char:EOLhyphen"/>tice of theſe premiſes, and if thou doubt of the truth of any thing therein, thou mayeſt repair to that Gentleman, who is able enough to make good what he hath ſaid; yea, and to ſhew ten times more then what is here rela<g ref="char:EOLhyphen"/>ted. He is a worthy Chriſtian, and not ſo deſirous of his liberty, as he is for the proſecution of his Countries cauſe, in which he is ſo faithfull and cou<g ref="char:EOLhyphen"/>ragious for the weal, freedome, and ſafety therof; and is no wiſe a betrayer of the truſt repoſed in him, which (as we know by wofull experience) too many are, ſo that he is a ſufferer meerly for well doing, and the cauſe is Gods, for which he ſuffereth. For GOD is the God of the ſecond Table of his Law, as well as of the firſt; and except men keep the ſecond, how can they keep the firſt? If a man loveth not his neighbour, how can he love God? Stand therefore for the ſecond Table of Gods Law, and encourage thoſe that do; elſe thy religion is but vain, and ſo will not avail thee before that God, who (when neceſſity requireth) ſaith, <hi>I will have mercy, and not ſacrifice.</hi>
+            </p>
+            <p>A WORD TO THE WISE, <hi>is ſufficient.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
